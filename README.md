@@ -1,4 +1,4 @@
-# View Translaions with vue-translations
+# View Translations with vue-translations
 
 ## Project setup
 ```
